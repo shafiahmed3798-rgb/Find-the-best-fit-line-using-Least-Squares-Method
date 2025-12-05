@@ -53,8 +53,8 @@ plt.plot(X,y_predicted,color='red')
 plt.show()
 
 Program to implement univariate Linear Regression to fit a straight line using least squares.
-Developed by: 
-RegisterNumber:  
+Developed by: Shafi Ahmed MS
+RegisterNumber: 25014933
 */
 ```
 
